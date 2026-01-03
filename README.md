@@ -5,7 +5,7 @@
 [![Language](https://img.shields.io/badge/MATLAB-R2020b%2B-orange.svg)](https://www.mathworks.com/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-## âš ï¸ Important Note
+## Important Note
 **This repository contains the source code accompanying a manuscript currently submitted to *Computers & Geosciences*. The code is provided to assist reviewers and editors in evaluating the reproducibility of the proposed method.**
 
 ## Overview
