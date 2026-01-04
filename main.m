@@ -210,4 +210,5 @@ l2 = line([0 length(t_zoom)], [th_off th_off], 'Color','r', 'LineStyle','--');
 title('(b) Hy-MAD: Natural Spikes Ignored & Anomaly Successfully Detected');
 legend([l1 l2], {['\lambda_{on}=', num2str(th_on)], ['\lambda_{off}=' num2str(th_off)]}, 'Location','northwest','FontSize',12);
 xlabel('Time (s)'); 
+
 grid on; xlim([0 length(t_zoom)]);
