@@ -1,7 +1,6 @@
 # Hy-MAD-Seismic-Anomaly-Detection
 # Hy-MAD: Seismic Anomaly Detection Algorithm
 
-[![Status](https://img.shields.io/badge/Status-Under_Review-yellow.svg)](https://www.journals.elsevier.com/computers-and-geosciences)
 [![Language](https://img.shields.io/badge/MATLAB-R2020b%2B-orange.svg)](https://www.mathworks.com/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
@@ -36,13 +35,3 @@ This repository allows users to reproduce **Figures 1, 2, and 3** presented in t
     * Load the `Hy_MAD_sample.txt` data.
     * Inject a synthetic anomaly (as described in the Methodology section of the paper).
     * Generate the comparison plots between the **Classical Method** and **Hy-MAD**.
-
-## Citation
-Please note that this work is currently **under review**. If you wish to cite this repository in the future, please refer to the published version of the manuscript once available.
-
-* **Current Status:** Submitted to *Computers & Geosciences* (2026).
-* **Temporary Reference:**
-> Ulukavak, M. "Morphologically Robust Adaptive Thresholding Algorithm for the Detection of Seismic Precursors in Non-Stationary Geoelectric Signals: Hy-MAD" *Computers & Geosciences* (Submitted, 2026).
-
-## Contact
-For any questions regarding the code or reproducibility during the review process, please contact the corresponding author via the journal submission system or open an issue in this repository.
