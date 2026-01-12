@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ## Important Note
-**This repository contains the source code accompanying a manuscript currently submitted to *Computers & Geosciences*. The code is provided to assist reviewers and editors in evaluating the reproducibility of the proposed method.**
+**This repository contains the source code accompanying a manuscript currently submitted. The code is provided to assist reviewers and editors in evaluating the reproducibility of the proposed method.**
 
 ## Overview
 This project implements the **Hy-MAD (Hybrid Median-Absolute-Deviation)** algorithm, a novel approach for detecting seismic anomalies in geoelectric data. The algorithm is designed to distinguish between true tectonic anomalies and high-amplitude natural noise (spikes).
